@@ -1,9 +1,9 @@
-let brinquedo = "carrinho"
-conosle.log (brinquedo);
+let brinquedo = "carrinho";
+console.log (brinquedo);
 
 
-let animal = "urso"
-conosle.log(especie);
+let animal = "urso";
+console.log (animal);
 
-let produto = "comida"
-conosle.log(pizza);
+let produto = "comida";
+console.log (produto);
