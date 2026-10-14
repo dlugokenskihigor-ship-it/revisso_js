@@ -16,15 +16,32 @@
 // console.log(typeof preco);
 
 
-let texto = "mundo JS";
-let numero = 42;
-let ligado = true;
-let vazio = null;
-let numeroGrande = 100n;
-let indeferido;
-console.log (typeof texto);
-console.log (typeof numero);
-console.log (typeof ligado);
-console.log (typeof vazio);
-console.log (typeof indeferido);
-console.log (typeof numeroGrande);
+
+
+
+
+// TYPEOF DE CADA UM
+// let texto = "mundo JS";
+// let numero = 42;
+// let ligado = true;
+// let vazio = null;
+// let numeroGrande = 100n;
+// let indeferido;
+// console.log (typeof texto);
+// console.log (typeof numero);
+// console.log (typeof ligado);
+// console.log (typeof vazio);
+// console.log (typeof indeferido);
+// console.log (typeof numeroGrande);
+
+
+
+
+const n1 = 120
+const n2 = 65
+
+console.log (n2 + n1);
+console.log (n1 - n2);
+console.log ( n1 * n2);
+console.log(n1 / n2);
+console.log (n1 % n2);
