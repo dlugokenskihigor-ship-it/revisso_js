@@ -55,3 +55,16 @@
 // const num = 25; texto = "25";
 // const resultado = num ===! texto; console.log(resultado);
 
+
+
+// USANDO && e ||
+
+// const temCarteira = true
+// const maiorDeIdade = false
+// const podeConduzir = temCarteira && maiorDeIdade;
+// console.log(podeConduzir);
+
+const temCarteira = true
+const maiorDeIdade = false 
+const satisfazUm = temCarteira || maiorDeIdade
+console.log(satisfazUm)
