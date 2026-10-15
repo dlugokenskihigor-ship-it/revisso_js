@@ -39,7 +39,6 @@
 // OPERAÇÃO MATEMATICAS
 // const n1 = 120
 // const n2 = 65
-
 // console.log (n2 + n1);
 // console.log (n1 - n2);
 // console.log ( n1 * n2);
@@ -51,20 +50,27 @@
 // USANDO ==
 // console.log (10 == "10");
 // console.log(10 === "10");
-
 // const num = 25; texto = "25";
 // const resultado = num ===! texto; console.log(resultado);
 
 
 
 // USANDO && e ||
-
 // const temCarteira = true
 // const maiorDeIdade = false
 // const podeConduzir = temCarteira && maiorDeIdade;
 // console.log(podeConduzir);
+// const temCarteira = true
+// const maiorDeIdade = false 
+// const satisfazUm = temCarteira || maiorDeIdade
+// console.log(satisfazUm)
 
-const temCarteira = true
-const maiorDeIdade = false 
-const satisfazUm = temCarteira || maiorDeIdade
-console.log(satisfazUm)
+
+
+let ativo = true
+let inativo = !ativo
+console.log("ativo", ativo)
+console.log("inativo", inativo)
+
+
+
