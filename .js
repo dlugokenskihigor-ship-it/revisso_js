@@ -64,13 +64,15 @@
 // const maiorDeIdade = false 
 // const satisfazUm = temCarteira || maiorDeIdade
 // console.log(satisfazUm)
+// let ativo = true
+// let inativo = !ativo
+// console.log("ativo", ativo)
+// console.log("inativo", inativo)
 
 
+// COERÇÕES JS
+let num = "2"
+console.log(num)
 
-let ativo = true
-let inativo = !ativo
-console.log("ativo", ativo)
-console.log("inativo", inativo)
-
-
-
+let brinquedo = "coisas";
+console.log (brinquedo);
